@@ -1,0 +1,27 @@
+sub_category,discount_group,order_lines,total_sales,total_profit
+Accessories,20% or less,775,167380.32,41936.64
+Appliances,20% or less,399,104149.63,26767.65
+Appliances,Over 20%,67,3382.53,-8629.64
+Art,20% or less,796,27118.79,6527.79
+Binders,20% or less,910,167272.12,68732.26
+Binders,Over 20%,613,36140.61,-38510.5
+Bookcases,20% or less,158,86336.0,7625.21
+Bookcases,Over 20%,70,28544.0,-11097.76
+Chairs,20% or less,459,258443.6,33327.28
+Chairs,Over 20%,158,70005.5,-6737.12
+Copiers,20% or less,59,132608.23,53434.85
+Copiers,Over 20%,9,16919.8,2182.98
+Envelopes,20% or less,254,16476.4,6964.18
+Fasteners,20% or less,217,3024.28,949.52
+Furnishings,20% or less,819,85060.46,19003.8
+Furnishings,Over 20%,138,6644.7,-5944.66
+Labels,20% or less,364,12486.31,5546.25
+Machines,20% or less,62,112399.52,32940.11
+Machines,Over 20%,53,76839.11,-29555.35
+Paper,20% or less,1370,78479.21,34053.57
+Phones,20% or less,780,295669.7,50901.52
+Phones,Over 20%,109,34337.35,-6385.79
+Storage,20% or less,846,223843.61,21278.83
+Supplies,20% or less,190,46673.54,-1189.1
+Tables,20% or less,143,117008.99,12972.74
+Tables,Over 20%,176,89956.54,-30698.22
